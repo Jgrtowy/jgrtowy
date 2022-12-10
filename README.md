@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Minecraft server creator tool](https://github.com/Jgrtowy/server-creator)
 
-- 👨‍💻 All of my projects are available at [jgrtowy.netlify.app](jgrtowy.netlify.app)
+- 👨‍💻 All of my projects are available [here](https://jgrtowy.netlify.app/)
 
 - 📫 How to reach me **jgrtowy@gmail.com**
 
