@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jgrtowy (irl known as Dawid)</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgrtowy&label=Profile%20views&color=ff4d00&style=flat-square" alt="jgrtowy" /> </p>
-
 - 🔭 I’m currently working on [Minecraft server creator tool](https://github.com/Jgrtowy/server-creator)
 
 - 👨‍💻 All of my projects are available at [jgrtowy.netlify.app](jgrtowy.netlify.app)
