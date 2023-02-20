@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jgrtowy (irl known as Dawid)</h1>
 
-- 🔭 I’m currently working on [Minecraft server creator tool](https://github.com/Jgrtowy/server-creator)
+<h2>Here's random <a href="https://github.com/GinoMoses">Moses'</a> pic:</h2>
+
+<img src="https://api.saintkappa.xyz/moses/pics/random" width="500">
+
+<h2>Thanks to <a href="https://github.com/theSaintKappa">SaintKappa</a> for creating this stupid API</h2>
+
+- 🔭 I’m currently working on [Minecraft server creator tool](https://github.com/Jgrtowy/server-creator), [Know what I meme game](https://github.com/Jgrtowy/kwim)
 
 - 👨‍💻 All of my projects are available [here](https://jgrtowy.netlify.app/)
 
