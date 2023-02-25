@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Minecraft server creator tool](https://github.com/Jgrtowy/server-creator), [Know what I meme game](https://github.com/Jgrtowy/kwim)
 
-- 👨‍💻 All of my projects are available [here](https://jgrtowy.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://jgrtowy.xyz//)
 
 - 📫 How to reach me **jgrtowy@gmail.com**
 
