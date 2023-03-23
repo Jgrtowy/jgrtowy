@@ -15,5 +15,5 @@
 <h2>📸 Here's random <a href="https://github.com/GinoMoses">Moses'</a> picture:</h2>
 
 <img src="https://api.saintkappa.xyz/moses/pics/random" width="350">
-<h2>Shoutout to <a href="  https://github.com/theSaintKappa">SaintKappa</a> for creating this API </h2>
+<h2>Shoutout to <a href="https://github.com/theSaintKappa">SaintKappa</a> for creating this API </h2>
 <h3>⭐ You can also check them out, they're really great devs and they deserve star and follow!</h3>
