@@ -5,7 +5,7 @@
      <h1>⭐ Favorite languages, frameworks and tools ⭐</h1>
      <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,py,java" /><br/>
      <img src="https://skillicons.dev/icons?i=nodejs,svelte,react,electron,sass,tailwind,bootstrap,express,firebase"/>
-     <img src="https://skillicons.dev/icons?i=linux,git,powershell,bash,visualstudio,vscode,idea,vite,googlecloud,netlify"/>
+     <img src="https://skillicons.dev/icons?i=linux,git,powershell,bash,visualstudio,vscode,idea,vite,vercel,netlify"/>
 </div>
 
 <h1 align="center">📝 Contact me on 📝</h1>
@@ -19,8 +19,8 @@
 
 <ul>
 <h2>
-     <li><a href="https://github.com/Jgrtowy/RCONClient">RCON Client 📩</a></li>
-     <li><a href="https://jgrtowy.xyz/">Website made in Svelte 🌍</a></li>
+     <li><a href="https://github.com/Jgrtowy/RCONClient">RCON Client 🌍</a></li>
+     <li><a href="https://jgrtowy.xyz/">Website made in Astro 🚀</a></li>
      <li><a href="https://github.com/Jgrtowy/YourBot">Discord bot 🤖</a></li>
      <li><a href="https://github.com/Jgrtowy/JgrtowyAPI">Own API 📨</a></li>
      <li><i>...and many more that you can check in "projects" tab!</i></li>
