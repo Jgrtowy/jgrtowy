@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, my name is Dawid👋</h1>
-<h1>🧑‍💻 I'm 16 yo Polish student who creates stupid stuff that he was, is, and will be proud of 🧑‍💻</h1>
+<h1>🧑‍💻 I'm 17 yo Polish student who creates stupid stuff that he was, is, and will be proud of 🧑‍💻</h1>
 
 <div align="center">
      <h1>⭐ Favorite languages, frameworks and tools ⭐</h1>
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,py,java" /><br/>
-     <img src="https://skillicons.dev/icons?i=nodejs,svelte,react,electron,sass,tailwind,bootstrap,express,firebase"/>
-     <img src="https://skillicons.dev/icons?i=linux,git,powershell,bash,visualstudio,vscode,idea,vite,vercel,netlify"/>
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,cs,go,java" /><br/>
+     <img src="https://skillicons.dev/icons?i=nodejs,svelte,astro,react,electron,sass,tailwind,express,firebase"/>
+     <img src="https://skillicons.dev/icons?i=linux,git,bash,visualstudio,vscode,idea,vite,vercel,netlify,ps"/>
 </div>
 
 <h1 align="center">📝 Contact me on 📝</h1>
@@ -23,12 +23,12 @@
      <li><a href="https://jgrtowy.xyz/">Website made in Astro 🚀</a></li>
      <li><a href="https://github.com/Jgrtowy/YourBot">Discord bot 🤖</a></li>
      <li><a href="https://github.com/Jgrtowy/JgrtowyAPI">Own API 📨</a></li>
+     <li><a href="https://github.com/Jgrtowy/BSSTools">BSS Tools 🐝</a></li>
+     <li><a href="https://github.com/Jgrtowy/yamst">YAMST 🛠️</a></li>
      <li><i>...and many more that you can check in "projects" tab!</i></li>
 </h2>
 </ul>
 <h1 align="center">📈 Stats</h1>
 <div align="center">
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgrtowy&theme=radical&layout=compact&count_private=true" />
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=jgrtowy&theme=radical&show_icons=true&count_private=true" />
-    </div>
-<div align="center">
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgrtowy&bg_color=24273a&hide=javascript&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&layout=compact&show_icons=true" />
+</div>
