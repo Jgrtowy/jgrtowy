@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">👋 Hi, my name is Dawid👋</h1>
-<h1>🧑‍💻 I'm 17 yo Polish student who creates stupid stuff that he was, is, and will be proud of 🧑‍💻</h1>
+<h1>🧑‍💻 I'm 18 yo Polish student who creates stupid stuff that he was, is, and will be proud of 🧑‍💻</h1>
 
 <div align="center">
      <h1>⭐ Favorite languages, frameworks and tools ⭐</h1>
@@ -32,5 +32,5 @@
 </ul>
 <h1 align="center">📈 Stats</h1>
 <div align="center">
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgrtowy&bg_color=24273a&hide=javascript&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&layout=compact&show_icons=true" />
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgrtowy&theme=transparent&hide=javascript&layout=compact&show_icons=true" />
 </div>
